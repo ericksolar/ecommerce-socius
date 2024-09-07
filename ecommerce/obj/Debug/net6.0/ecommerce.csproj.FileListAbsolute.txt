@@ -66,7 +66,6 @@ C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6
 C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6.0\scopedcss\bundle\ecommerce.styles.css
-C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6.0\ecommerce.csproj.CopyComplete
 C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6.0\ecommerce.dll
 C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6.0\refint\ecommerce.dll
 C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6.0\ecommerce.pdb
@@ -75,6 +74,7 @@ C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6
 C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\bin\Debug\net6.0\JWT.dll
 C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\bin\Debug\net6.0\System.Text.Json.dll
+<<<<<<< HEAD
 C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\bin\Debug\net6.0\appsettings.json
 C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\bin\Debug\net6.0\ecommerce.exe
@@ -158,3 +158,8 @@ C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecomme
 C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\obj\Debug\net6.0\ecommerce.pdb
 C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\obj\Debug\net6.0\ecommerce.genruntimeconfig.cache
 C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\obj\Debug\net6.0\ref\ecommerce.dll
+=======
+C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\carlo\source\repos\ericksolar\ecommerce-socius\ecommerce\obj\Debug\net6.0\ecommerce.csproj.CopyComplete
+>>>>>>> 6450095a0ab9765b0e889ebd3b491e4b32011d35
+C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\bin\Debug\net6.0\appsettings.Production.json
