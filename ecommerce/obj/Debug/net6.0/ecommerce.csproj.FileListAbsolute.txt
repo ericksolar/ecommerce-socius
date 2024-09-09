@@ -158,3 +158,7 @@ C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecomme
 C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\obj\Debug\net6.0\ecommerce.pdb
 C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\obj\Debug\net6.0\ecommerce.genruntimeconfig.cache
 C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\obj\Debug\net6.0\ref\ecommerce.dll
+C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\bin\Debug\net6.0\SharpGrip.FluentValidation.AutoValidation.Mvc.dll
+C:\Users\E\Desktop\SociusBootCamp\ChallengerFinal\server\ecommerce-socius\ecommerce\bin\Debug\net6.0\SharpGrip.FluentValidation.AutoValidation.Shared.dll
